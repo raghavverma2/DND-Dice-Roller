@@ -2,4 +2,4 @@
 
 A Dungeons and Dragons dice roller for Android.
 
-I've given up on improving this.
+I've given up on this.
